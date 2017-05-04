@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVExperimentKindaThing", "CSVExperimentKindaThing\CSVExperimentKindaThing.csproj", "{4E5E34A8-3137-42E7-AC3C-49C28A5229BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OefObjecten", "CSVExperimentKindaThing\OefObjecten.csproj", "{4E5E34A8-3137-42E7-AC3C-49C28A5229BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
