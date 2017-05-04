@@ -1,1 +1,2 @@
-﻿
+﻿var persoon = {};
+var artikel = {};
